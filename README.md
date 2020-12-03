@@ -3,7 +3,7 @@
 - **Developpeur web** fan de :basketball: et :video_game:
 - Ancien élève de l'école *O'clock*, promotion **Excalibur**
 
-[<img src='https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png' alt='linkedin'>](https://www.linkedin.com/in/nicolasdelisle38000/) Linkedin
+[<img src='https://icon-icons.com/icons2/2037/PNG/64/in_linked_linkedin_media_social_icon_124259.png' alt='linkedin'>](https://www.linkedin.com/in/nicolasdelisle38000/)
 
 
 Compétences :
