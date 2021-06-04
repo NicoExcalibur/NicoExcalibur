@@ -13,6 +13,9 @@ Compétences :
 🌱 Actuellement en train d'apprendre <img src='https://icon-icons.com/icons2/2415/PNG/64/vuejs_original_logo_icon_146304.png' alt='VueJS' height='40'>
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoExcalibur&show_icons=true&theme=merko)
+
 <!--
 **NicoExcalibur/NicoExcalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
