@@ -15,9 +15,6 @@ Compétences :
 <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png' alt='GraphQL' height='40'>
 <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png' alt='Node.JS' height='40'>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoExcalibur&show_icons=true&theme=merko)
-
 <!--
 **NicoExcalibur/NicoExcalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
